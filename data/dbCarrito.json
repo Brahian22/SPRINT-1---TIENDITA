@@ -1,0 +1,34 @@
+{
+  "carrito": [
+    {
+      "id": 2,
+      "descuento": "32% dto.",
+      "name": "Tomate",
+      "price": "$21.79/kg",
+      "price2": "$32.9/kg",
+      "image": "https://res.cloudinary.com/ds5jsdvba/image/upload/v1645280925/Productos/Name_Tomate_grf0aw.svg"
+    },
+    {
+      "id": 4,
+      "descuento": "13% dto.",
+      "name": "Nopal Limpio",
+      "price": "$25.8/kg",
+      "price2": "$29.9/kg",
+      "image": "https://res.cloudinary.com/ds5jsdvba/image/upload/v1645281061/Productos/Name_Nopal_q6qvme.svg"
+    },
+    {
+      "id": 11,
+      "name": "Colgate Pasta Dental Triple Familiar 2 U",
+      "price": "$35.5",
+      "image": "https://res.cloudinary.com/ds5jsdvba/image/upload/v1645282125/Productos/Name_Colgate_sdqsxj.svg"
+    },
+    {
+      "id": 1,
+      "descuento": "32% dto.",
+      "name": "Limon con Semilla",
+      "price": "$26.82/kg",
+      "price2": "$39.9/kg",
+      "image": "https://res.cloudinary.com/ds5jsdvba/image/upload/v1645280933/Productos/Name_Limon_zm0did.svg"
+    }
+  ]
+}

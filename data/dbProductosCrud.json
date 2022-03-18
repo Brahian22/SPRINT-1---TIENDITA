@@ -1,0 +1,22 @@
+{
+  "productos": [
+    {
+      "image": "https://res.cloudinary.com/ds5jsdvba/image/upload/v1645281061/Productos/Name_Nopal_q6qvme.svg",
+      "name": "Nopal Limpio ",
+      "price": "$25.8/kg",
+      "id": 2
+    },
+    {
+      "image": "https://res.cloudinary.com/ds5jsdvba/image/upload/v1645280925/Productos/Name_Tomate_grf0aw.svg",
+      "name": "Tomate",
+      "price": "$21.79/kg",
+      "id": 3
+    },
+    {
+      "image": "https://jumbocolombiafood.vteximg.com.br/arquivos/ids/3510543-1000-1000/7702511000045.jpg?v=637273105624530000",
+      "name": "Arroz Diana",
+      "price": "$25.8",
+      "id": 5
+    }
+  ]
+}

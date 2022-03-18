@@ -1,0 +1,109 @@
+body {
+    background-color: #FAFAF8;
+}
+
+.banner {
+    margin: 4%;
+    text-align: center;
+    
+}
+#contenedor {
+    overflow: auto;
+    margin: 1%;
+    flex-wrap: nowrap;
+    width: 97%;
+}
+
+#contenedor .carta {
+    display: inline-block;
+  width: 17rem;
+  margin: 2px;
+}
+
+
+.inline {
+    display: inline !important;
+}
+.caja {
+    padding: 3%;
+    margin: 5% ;
+    background-color: white;
+    border-radius: 10px;
+     
+}
+
+
+
+.descuento{
+    padding: 2px;
+    border-radius: 10px;
+    width: 75px;
+    color: #5E18BB;
+    background-color: #F0E3FE;
+
+}
+
+#contenedor2 {
+    overflow: auto;
+    margin: 1%;
+    flex-wrap: nowrap;
+    width: 97%;
+}
+
+#contenedor2 .carta {
+    display: inline-block;
+  width: 17rem;
+  margin: 2px;
+}
+
+#container2 {
+    overflow: auto;
+    margin: 1%;
+    flex-wrap: nowrap;
+    width: 97%;
+}
+
+#container2 .carta {
+    display: inline-block;
+    width: 17rem;
+    margin: 2px;
+}
+
+.imagenDet {
+    width: 10% !important;
+}
+
+.contenedorDetalle {
+    margin: 5%;
+}
+
+.btnAgregar1 {
+    background-color: #0AC763; 
+    width: 100%;
+}
+
+.btnAgregar2 {
+    background-color: #0AC763; 
+    width: 100%;
+}
+
+.btnCarrito {
+    padding: 0;
+    font-size: 20px;
+    width: 6%;
+    background-color: #0AC763 !important;
+}
+
+.btnCarrito ion-icon{
+    margin-top:5px; 
+    font-size: 26px !important;
+}
+.containerCarrito{
+    position: relative;
+    left: 60% !important;
+    width: 90%;
+}
+.styleSelect {
+    width: 20%;
+    margin-right: 2%;
+}
